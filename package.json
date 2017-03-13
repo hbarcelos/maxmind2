@@ -1,0 +1,26 @@
+{
+  "name": "maxmind2",
+  "version": "1.0.0",
+  "description": "Wrapper for maxmind package at version 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarcelos/maxmind2.git"
+  },
+  "keywords": [
+    "maxmind",
+    "geolocation"
+  ],
+  "author": "Henrique Barcelos <rick.hjpbarcelos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbarcelos/maxmind2/issues"
+  },
+  "homepage": "https://github.com/hbarcelos/maxmind2#readme",
+  "dependencies": {
+    "maxmind": "^2.2.0"
+  }
+}
